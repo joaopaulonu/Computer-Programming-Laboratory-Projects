@@ -1,5 +1,3 @@
-// Aula 01
-
 // 1. Antecessor e Sucessor
 
 #include <stdio.h>
