@@ -83,7 +83,7 @@ Each folder contains:
 | **Course** | Programação de Computadores (Computer Programming) |
 | **Institution** | Pontifical Catholic University of Campinas (PUC-Campinas) |
 | **Program** | Computer Engineering |
-| **Semester** | 2026 |
+| **Semester** | 2025 |
 
 ---
 
